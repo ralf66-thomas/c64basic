@@ -8,6 +8,7 @@ A fully compatible C64 BASIC V2 interpreter and screen editor written in Python.
 
 - Python 3.7+
 - No external dependencies (uses standard library only)
+- fully done with CloudCode and Sonnet 4.6
 
 ---
 
