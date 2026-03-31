@@ -1,0 +1,11 @@
+10 REM Multiplication Table
+20 PRINT "MULTIPLICATION TABLE"
+30 PRINT "--------------------"
+40 FOR I = 1 TO 10
+50   FOR J = 1 TO 10
+60     PRINT I*J;
+70     IF J < 10 THEN PRINT TAB(J*6);
+80   NEXT J
+90   PRINT
+100 NEXT I
+110 END
